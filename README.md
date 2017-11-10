@@ -23,7 +23,8 @@ Query the server via a FINGER(1) client:
 
 ## TODO
 
-Reimplement the fingerd server to better learn golang.
+* Reimplement the fingerd server to better learn golang.
+* Create the fingerd user with known UID in Dockerfile.
 
 ## License
 
