@@ -1,0 +1,41 @@
+---
+apiVersion: apps/v1beta2
+kind: Deployment
+metadata:
+  name: containume
+  labels:
+    app: containume
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: containume
+  template:
+    metadata:
+      labels:
+        app: containume
+    spec:
+      securityContext:
+        # Maps to a user created by the Dockerfile
+        runAsUser: 1000
+      containers:
+        - name: containume
+          image: retr0h/containume:latest
+          ports:
+            - containerPort: 1079
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: containume
+  labels:
+    app: containume
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 79
+      targetPort: 1079
+      protocol: TCP
+      name: fingerd
+  selector:
+    app: containume
