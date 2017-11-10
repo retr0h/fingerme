@@ -17,7 +17,7 @@ spec:
     spec:
       securityContext:
         # Maps to a user created by the Dockerfile
-        runAsUser: 1000
+        runAsUser: 2000
       containers:
         - name: containume
           image: retr0h/containume:latest

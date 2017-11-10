@@ -3,7 +3,7 @@ LABEL maintainer "John Dewey <john@dewey.ws>"
 
 RUN \
   go get go.pennock.tech/fingerd \
-  && useradd fingerd \
+  && useradd -u 2000 fingerd \
   && useradd -m john \
   && useradd -m retr0h
 
