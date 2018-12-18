@@ -29,39 +29,38 @@ Experience
 - Ham Radio Operator, Greater Los Angeles Area, CA
   February 2018 - Present
 
-  Technician License
+- Technical leader (Cisco Container Platform - Kubernetes), Cisco Systems, Greater Los Angeles Area, CA
+  January 2014 - June 2018
 
-- Technical leader, Cisco Systems, Pasadena, CA
-  January 2014 - Present
+  On the leadership team responsible for Cisco Container Platform.
 
-  On the leadership team responsible for building, supporting, and architecting
-  Cisco Metapod.  An on premise production-ready, OpenStack-based cloud, we
+  Cisco Container Platform. A fully curated, lightweight container management
+  platform for production-grade environments, powered by Kubernetes, and delivered
+  with Cisco enterprise-class support.
+
+- Technical leader (Cisco Metapod - OpenStack), Cisco Systems, Greater Los Angeles Area, CA
+  January 2014 - June 2018
+
+  On the leadership team responsible for Cisco Metapod.
+
+  Cisco Metapod. An on premise production-ready, OpenStack-based cloud, we
   engineer, deploy, and operate on the customer's behalf. This includes a
   converged single OpenStack story amongst our recent acquisitions and existing
   business units.
 
-  Evaluate and select a Kubernetes installer which would fit into our existing
-  tooling and practices.   Experience with Kubespray to deploy multi-master
-  clusters.  Submitted bug and enhancement pull requests to Kubespray and Halcyon
-  projects.
-
-  Provide feedback, pain points, and use cases to the Kolla Kubernetes PTL as we
-  use this technology in the real-world.  This also included evaluating alternatives
-  such as Armada and home grown Day 2 orchestration.
-
   Leading a distributed team of motivated engineers, whom are responsible for mid to
-  long-term improvements of the product. Includes developing a deployment/inventory
+  long-term improvements of the products. Includes developing a deployment/inventory
   framework for Cisco Metapod, which is used by CI, developers, and operations
   throughout Cisco. Tooling to aid in the aforementioned (Molecule[1], Gilt[2],
-  Photon[3]).  Product releases, which include OpenStack upgrades.  Working closely
+  Photon[3]). Product releases, which include OpenStack upgrades. Working closely
   with Ops to identify and correct pain points in the platform. Inventory API,
   validator, and generator which is consumed by Ansible and other services.
 
-  The product is composed of many layers, for which I am intimately involved.
+  The products are composed of many layers, for which I am intimately involved.
   Responsibilities include working with product on the roadmap, leading beyond my
   team to converge projects and codebases, code and architecture reviews,
-  containerization via Docker and Kubernetes, AZ API (enables customers make
-  changes to their deployment), HA strategies, on-call, bug fixes, feature adds.
+  AZ API (enables customers make changes to their deployment), HA strategies, on-call,
+  bug fixes, feature adds.
 
   Responsible for bringing Ansible to an otherwise Puppet based company.
 
@@ -70,7 +69,7 @@ Experience
   [3] http://python-photon.readthedocs.io/en/latest/
 
 - Openstack Contributor, Greater Los Angeles Area, CA
-  January 2011 - Present
+  January 2011 - June 2018
 
   An active participant in the community and active on the Operators mailer.  A
   founding member of the OpenStack Chef community [1].
@@ -93,7 +92,7 @@ Experience
 
   [1] https://github.com/blueboxgroup/ursula
 
-- Principal Technical Architect, AT&T, Los Angeles, CA
+- Principal Technical Architect, AT&T, Greater Los Angeles Area, CA
   February 2011 - September 2013
 
   Built a unified geographically diverse OpenStack deployment across the United States.
@@ -138,7 +137,7 @@ Experience
   methodologies to the team. Accomplished a re-write of www.yellowpages.com, which was
   a top corporate priority at the time.
 
-- Systems Administrator (Consultant), Redbubble, Los Angeles, CA
+- Systems Administrator (Consultant), Redbubble, Greater Los Angeles Area, CA
   December 2008 - February 2009
 
   Worked closely with a System Administrator in Australia. Assisted with various system
@@ -186,6 +185,17 @@ Projects
 --------
 
 * Molecule - https://molecule.readthedocs.io/en/latest/
+  Jun 2015 – Oct 2018
+
+  Molecule is designed to aid in the development and testing of Ansible roles including
+  support for multiple instances, operating system distributions, virtualization providers
+  and test frameworks.
+
+  Molecule has become the defacto Ansible testing framework, by building a community around
+  Molecule through public speaking, meetups, Slack, and mailing lists. Helped to Shepherd Molecule's
+  adoption by Redhat into the Ansible ecosystem [1].
+
+  [1] https://groups.google.com/forum/#!msg/ansible-devel/U8_Lxg7wAHA/u6KsV-DbGAAJ
 * Gilt - http://gilt.readthedocs.io/en/latest/
 * Photon - http://python-photon.readthedocs.io/en/latest/
 * git-url-parse - https://git-url-parse.readthedocs.io/en/latest/
