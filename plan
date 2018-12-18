@@ -134,7 +134,7 @@ Experience
 
   Core member of the www.yellowpages.com development team. Brought much change to the
   existing www.yellowpages.com software engineering group. Introduced TDD/BDD and agile
-  methodologies to the team. Accomplished a re-write of www.yellowpages.com, which was
+  methodologies to the team. Accomplished a rewrite of www.yellowpages.com, which was
   a top corporate priority at the time.
 
 - Systems Administrator (Consultant), Redbubble, Greater Los Angeles Area, CA
@@ -144,7 +144,7 @@ Experience
   administration tasks. Created a backup/restore strategy of assets into S3. Researched
   CDN solutions to improve user experience. Improved their rails deployments.
 
-- Senior Software Engineer, LA Times Interative, Los Angeles, CA
+- Senior Software Engineer, LA Times Interactive, Los Angeles, CA
   November 2007 - December 2008
 
   Developed entertainment products using Ruby on Rails. Improved performance and reduced
@@ -185,7 +185,7 @@ Projects
 --------
 
 * Molecule - https://molecule.readthedocs.io/en/latest/
-  Jun 2015 – Oct 2018
+  June 2015 - Oct 2018
 
   Molecule is designed to aid in the development and testing of Ansible roles including
   support for multiple instances, operating system distributions, virtualization providers
