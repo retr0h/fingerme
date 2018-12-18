@@ -29,16 +29,18 @@ Experience
 - Ham Radio Operator, Greater Los Angeles Area, CA
   February 2018 - Present
 
-- Technical leader (Cisco Container Platform - Kubernetes), Cisco Systems, Greater Los Angeles Area, CA
+- Technical leader (Cisco Container Platform - Kubernetes), Cisco Systems,
+  Greater Los Angeles Area, CA
   January 2014 - June 2018
 
   On the leadership team responsible for Cisco Container Platform.
 
   Cisco Container Platform. A fully curated, lightweight container management
-  platform for production-grade environments, powered by Kubernetes, and delivered
-  with Cisco enterprise-class support.
+  platform for production-grade environments, powered by Kubernetes, and
+  delivered with Cisco enterprise-class support.
 
-- Technical leader (Cisco Metapod - OpenStack), Cisco Systems, Greater Los Angeles Area, CA
+- Technical leader (Cisco Metapod - OpenStack), Cisco Systems,
+  Greater Los Angeles Area, CA
   January 2014 - June 2018
 
   On the leadership team responsible for Cisco Metapod.
@@ -48,19 +50,20 @@ Experience
   converged single OpenStack story amongst our recent acquisitions and existing
   business units.
 
-  Leading a distributed team of motivated engineers, whom are responsible for mid to
-  long-term improvements of the products. Includes developing a deployment/inventory
-  framework for Cisco Metapod, which is used by CI, developers, and operations
-  throughout Cisco. Tooling to aid in the aforementioned (Molecule[1], Gilt[2],
-  Photon[3]). Product releases, which include OpenStack upgrades. Working closely
-  with Ops to identify and correct pain points in the platform. Inventory API,
-  validator, and generator which is consumed by Ansible and other services.
+  Leading a distributed team of motivated engineers, whom are responsible for
+  mid to long-term improvements of the products. Includes developing a
+  deployment/inventory framework for Cisco Metapod, which is used by CI,
+  developers, and operations throughout Cisco. Tooling to aid in the
+  aforementioned (Molecule[1], Gilt[2], Photon[3]). Product releases, which
+  include OpenStack upgrades. Working closely with Ops to identify and correct
+  pain points in the platform. Inventory API, validator, and generator which is
+  consumed by Ansible and other services.
 
   The products are composed of many layers, for which I am intimately involved.
-  Responsibilities include working with product on the roadmap, leading beyond my
-  team to converge projects and codebases, code and architecture reviews,
-  AZ API (enables customers make changes to their deployment), HA strategies, on-call,
-  bug fixes, feature adds.
+  Responsibilities include working with product on the roadmap, leading beyond
+  my team to converge projects and codebases, code and architecture reviews,
+  AZ API (enables customers make changes to their deployment), HA strategies,
+  on-call, bug fixes, feature adds.
 
   Responsible for bringing Ansible to an otherwise Puppet based company.
 
@@ -79,90 +82,95 @@ Experience
 - Senior Software Engineer, Bluebox Group, Seattle, WA
   September 2013 - January 2014
 
-  Blue Box Cloud: Your cloud, our hardware. We own the hardware, but it's dedicated
-  to your cloud deployment. And your cloud runs the same OpenStack deployment that
-  we run for all our other customers day after day.
+  Blue Box Cloud: Your cloud, our hardware. We own the hardware, but it's
+  dedicated to your cloud deployment. And your cloud runs the same OpenStack
+  deployment that we run for all our other customers day after day.
 
-  Was responsible for operationalizing hosted OpenStack deployments in Blue Box data
-  centers, developing value adds, and the challenges surrounding such a requirements.
+  Was responsible for operationalizing hosted OpenStack deployments in Blue Box
+  data centers, developing value adds, and the challenges surrounding such a
+  requirements.
 
-  Developed Ansible automation to deploy an opinionated active/active HA OpenStack.
-  These playbooks are open sourced and available on github [1]. Contributed to the
-  Ansible project in the form of modules for OpenStack and Rabbitmq.
+  Developed Ansible automation to deploy an opinionated active/active HA
+  OpenStack.  These playbooks are open sourced and available on github [1].
+  Contributed to the Ansible project in the form of modules for OpenStack and
+  Rabbitmq.
 
   [1] https://github.com/blueboxgroup/ursula
 
 - Principal Technical Architect, AT&T, Greater Los Angeles Area, CA
   February 2011 - September 2013
 
-  Built a unified geographically diverse OpenStack deployment across the United States.
-  Brought agile methodologies, to successfully accomplish the previous statement.  One
-  of the four founding members to bring OpenStack inside the walls of AT&T.
+  Built a unified geographically diverse OpenStack deployment across the United
+  States.  Brought agile methodologies, to successfully accomplish the previous
+  statement.  One of the four founding members to bring OpenStack inside the
+  walls of AT&T.
 
-  I was responsible for scaling and operationalizing disperse OpenStack components over
-  many iterations, into a stable production ready internal utility cloud.  Architected
-  and developed data center automation. Provisioned bare metal systems, F5 load
-  balancers via iControl, and public and private DNS, by parsing standardized ODM/OEM
-  hardware manifests.  Setup Gerrit so our team can follow the same workflow for internal
-  projects/repos as OpenStack. Led a team of engineers to accomplish the aforementioned
-  through Pivotal stories, and interaction through IRC/Google hangouts.
+  I was responsible for scaling and operationalizing disperse OpenStack
+  components over many iterations, into a stable production ready internal
+  utility cloud.  Architected and developed data center automation. Provisioned
+  bare metal systems, F5 load balancers via iControl, and public and private
+  DNS, by parsing standardized ODM/OEM hardware manifests.  Setup Gerrit so our
+  team can follow the same workflow for internal projects/repos as OpenStack.
+  Led a team of engineers to accomplish the aforementioned through Pivotal
+  stories, and interaction through IRC/Google hangouts.
 
-  The ATT OpenStack Chef cookbooks became the de facto community cookbooks used to deploy
-  OpenStack. The cookbooks are available on the stackforge's Github page [1], and follow
-  the same contribution process as OpenStack itself. Many individuals and companies are
-  contributing to these.
+  The ATT OpenStack Chef cookbooks became the de facto community cookbooks used
+  to deploy OpenStack. The cookbooks are available on the stackforge's Github
+  page [1], and follow the same contribution process as OpenStack itself. Many
+  individuals and companies are contributing to these.
 
   [1] https://github.com/stackforge/
 
 - Lead Software Engineer, Yellowpages.com, Glendale, CA
   June 2010 - February 2011
 
-  Cloud Team. Built Open Source libraries in Ruby and Python to interact with our Cloud
-  Infrastructure Researched many open source cloud platforms. Contributed bug fixes, and
-  libraries to OpenNebula and OpenStack. POC internal clouds, which included a multi-AZ
-  OpenStack deployment.
+  Cloud Team. Built Open Source libraries in Ruby and Python to interact with
+  our Cloud Infrastructure Researched many open source cloud platforms.
+  Contributed bug fixes, and libraries to OpenNebula and OpenStack. POC internal
+  clouds, which included a multi-AZ OpenStack deployment.
 
 - Software Engineer, Yellowpages.com, Glendale, CA
   February 2010 - June 2010
 
-  Lead application performance engineer for www.yellowpages.com. Improved performance and
-  reduced latency of www.yellowpages.com. Helped educate feature developers of such
-  bottlenecks and findings.
+  Lead application performance engineer for www.yellowpages.com. Improved
+  performance and reduced latency of www.yellowpages.com. Helped educate feature
+  developers of such bottlenecks and findings.
 
 - Software Engineer, Yellowpages.com, Glendale, CA
   December 2008 - February 2010
 
-  Core member of the www.yellowpages.com development team. Brought much change to the
-  existing www.yellowpages.com software engineering group. Introduced TDD/BDD and agile
-  methodologies to the team. Accomplished a rewrite of www.yellowpages.com, which was
-  a top corporate priority at the time.
+  Core member of the www.yellowpages.com development team. Brought much change
+  to the existing www.yellowpages.com software engineering group. Introduced
+  TDD/BDD and agile methodologies to the team. Accomplished a rewrite of
+  www.yellowpages.com, which was a top corporate priority at the time.
 
 - Systems Administrator (Consultant), Redbubble, Greater Los Angeles Area, CA
   December 2008 - February 2009
 
-  Worked closely with a System Administrator in Australia. Assisted with various system
-  administration tasks. Created a backup/restore strategy of assets into S3. Researched
-  CDN solutions to improve user experience. Improved their rails deployments.
+  Worked closely with a System Administrator in Australia. Assisted with various
+  system administration tasks. Created a backup/restore strategy of assets into
+  S3. Researched CDN solutions to improve user experience. Improved their rails
+  deployments.
 
 - Senior Software Engineer, LA Times Interactive, Los Angeles, CA
   November 2007 - December 2008
 
-  Developed entertainment products using Ruby on Rails. Improved performance and reduced
-  latency of key Rails applications.
+  Developed entertainment products using Ruby on Rails. Improved performance and
+  reduced latency of key Rails applications.
 
 - Software Engineer, EarthLink, Pasadena, CA
   January 2007 - November 2007
 
-  Primarily focused on dynamic, web based e-commerce applications and products using Ruby
-  on Rails and Java frameworks.
+  Primarily focused on dynamic, web based e-commerce applications and products
+  using Ruby on Rails and Java frameworks.
 
 - Staff System Engineer, EarthLink, Pasadena, CA
   2005 - January 2007
 
-  Focused on portal and web based technologies. Implemented CDN, and a NetScaler load
-  balancing architecture across the infrastructure. Continued to make incremental
-  improvements of services. Spent much effort to reduce technical debt, and nurture this
-  belief throughout the team.
+  Focused on portal and web based technologies. Implemented CDN, and a NetScaler
+  load balancing architecture across the infrastructure. Continued to make
+  incremental improvements of services. Spent much effort to reduce technical
+  debt, and nurture this belief throughout the team.
 
   Deployed Xen based virtual machines to better utilize compute resources.
 
@@ -173,8 +181,8 @@ Experience
 
   Lead system engineer for TrueVoice - EarthLink's first Voice over IP offering.
 
-  Reduced the stigma associated with the services, by making incremental improvements in
-  infrastructure, service reliability, and team abilities.
+  Reduced the stigma associated with the services, by making incremental
+  improvements in infrastructure, service reliability, and team abilities.
 
 - Senior System Administrator, EarthLink, Pasadena, CA
   1998 - 2004
@@ -187,13 +195,14 @@ Projects
 * Molecule - https://molecule.readthedocs.io/en/latest/
   June 2015 - Oct 2018
 
-  Molecule is designed to aid in the development and testing of Ansible roles including
-  support for multiple instances, operating system distributions, virtualization providers
-  and test frameworks.
+  Molecule is designed to aid in the development and testing of Ansible roles
+  including support for multiple instances, operating system distributions,
+  virtualization providers and test frameworks.
 
-  Molecule has become the defacto Ansible testing framework, by building a community around
-  Molecule through public speaking, meetups, Slack, and mailing lists. Helped to Shepherd Molecule's
-  adoption by Redhat into the Ansible ecosystem [1].
+  Molecule has become the defacto Ansible testing framework, by building a
+  community around Molecule through public speaking, meetups, Slack, and mailing
+  lists. Helped to Shepherd Molecule's adoption by Redhat into the Ansible
+  ecosystem [1].
 
   [1] https://groups.google.com/forum/#!msg/ansible-devel/U8_Lxg7wAHA/u6KsV-DbGAAJ
 * Gilt - http://gilt.readthedocs.io/en/latest/
