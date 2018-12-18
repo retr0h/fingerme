@@ -1,4 +1,4 @@
-FROM golang:1.9.2
+FROM golang:latest
 LABEL maintainer "John Dewey <john@dewey.ws>"
 
 RUN \
