@@ -35,37 +35,35 @@ Experience
 
   On the leadership team responsible for Cisco Container Platform.
 
-  Cisco Container Platform. A fully curated, lightweight container management
-  platform for production-grade environments, powered by Kubernetes, and
-  delivered with Cisco enterprise-class support.
+  > Cisco Container Platform. A fully curated, lightweight container management
+    platform for production-grade environments, powered by Kubernetes, and
+    delivered with Cisco enterprise-class support.
 
 - Technical leader (Cisco Metapod - OpenStack), Cisco Systems,
   Greater Los Angeles Area, CA
   January 2014 - June 2018
 
-  On the leadership team responsible for Cisco Metapod.
+  Member of the leadership team responsible for Cisco Metapod.
 
-  Cisco Metapod. An on premise production-ready, OpenStack-based cloud, we
-  engineer, deploy, and operate on the customer's behalf. This includes a
-  converged single OpenStack story amongst our recent acquisitions and existing
-  business units.
+  > Cisco Metapod.  An on premise production-ready, OpenStack-based cloud, we
+    engineer, deploy, and operate on the customer's behalf. This includes a
+    converged single OpenStack story among our recent acquisitions and existing
+    business units.
 
-  Leading a distributed team of motivated engineers, whom are responsible for
-  mid to long-term improvements of the products. Includes developing a
-  deployment/inventory framework for Cisco Metapod, which is used by CI,
+  Led a distributed team of motivated engineers, whom were responsible for mid
+  to long-term improvements of the products. Included development of a
+  deployment/inventory framework for Cisco Metapod, which was used by CI,
   developers, and operations throughout Cisco. Tooling to aid in the
-  aforementioned (Molecule[1], Gilt[2], Photon[3]). Product releases, which
-  include OpenStack upgrades. Working closely with Ops to identify and correct
-  pain points in the platform. Inventory API, validator, and generator which is
-  consumed by Ansible and other services.
+  aforementioned (Molecule[1], Gilt[2], Photon[3]).  Product releases, which
+  included major, minor, and skipped versions of OpenStack and Ceph upgrades.
+  Worked closely with Ops to identify and correct pain points in the platform.
+  Inventory API, validator, and generator which was consumed by Ansible and other
+  services.  Password rotation tooling for OpenStack and ancillary services.
 
-  The products are composed of many layers, for which I am intimately involved.
-  Responsibilities include working with product on the roadmap, leading beyond
+  The products are composed of many layers, for which I was intimately involved.
+  Responsibilities included working with product on the roadmap, leading beyond
   my team to converge projects and codebases, code and architecture reviews,
-  AZ API (enables customers make changes to their deployment), HA strategies,
-  on-call, bug fixes, feature adds.
-
-  Responsible for bringing Ansible to an otherwise Puppet based company.
+  HA strategies, on-call, bug fixes, and feature adds.
 
   [1] http://molecule.readthedocs.io
   [2] http://gilt.readthedocs.io/en/latest/
@@ -74,17 +72,17 @@ Experience
 - Openstack Contributor, Greater Los Angeles Area, CA
   January 2011 - June 2018
 
-  An active participant in the community and active on the Operators mailer.  A
-  founding member of the OpenStack Chef community [1].
+  Was actively involved in the community and the Operators mailer. A founding
+  member of the OpenStack Chef community [1].
 
   [1] https://launchpad.net/openstack-chef
 
 - Senior Software Engineer, Bluebox Group, Seattle, WA
   September 2013 - January 2014
 
-  Blue Box Cloud: Your cloud, our hardware. We own the hardware, but it's
-  dedicated to your cloud deployment. And your cloud runs the same OpenStack
-  deployment that we run for all our other customers day after day.
+  > Blue Box Cloud: Your cloud, our hardware. We own the hardware, but it's
+    dedicated to your cloud deployment. And your cloud runs the same OpenStack
+    deployment that we run for all our other customers day after day.
 
   Was responsible for operationalizing hosted OpenStack deployments in Blue Box
   data centers, developing value adds, and the challenges surrounding such a
