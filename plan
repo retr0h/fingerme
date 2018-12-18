@@ -210,5 +210,3 @@ Projects
 * git-url-parse - https://git-url-parse.readthedocs.io/en/latest/
 * Ansible ETCD - https://github.com/retr0h/ansible-etcd
 * Ansible logrotate - https://github.com/retr0h/ansible-logrotate
-* Chef Cookbooks - https://supermarket.chef.io/users/retr0h
-* Ursula - https://github.com/blueboxgroup/ursula
