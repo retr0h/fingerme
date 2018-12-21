@@ -4,14 +4,20 @@ LABEL maintainer "John Dewey <john@dewey.ws>"
 RUN \
   go get go.pennock.tech/fingerd \
   && useradd -u 2000 fingerd \
-  && useradd -m john \
-  && useradd -m retr0h
+  && useradd -m john
 
-COPY plan /home/retr0h/.plan
+# Plan
 COPY plan /home/john/.plan
 
+# Project
+COPY project /home/john/.project
+
+# Pubkey
+COPY pubkey /home/john/.pubkey
+
 RUN \
-  chown retr0h:retr0h /home/retr0h/.plan \
-  && chown john:john /home/john/.plan
+  chown john:john /home/john/.plan \
+  && chown john:john /home/john/.project \
+  && chown john:john /home/john/.pubkey
 
 CMD ["fingerd", "-listen", ":1079"]

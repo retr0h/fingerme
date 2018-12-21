@@ -1,0 +1,20 @@
+
+* Molecule - https://molecule.readthedocs.io/en/latest/
+  June 2015 - Oct 2018
+
+  Molecule is designed to aid in the development and testing of Ansible roles
+  including support for multiple instances, operating system distributions,
+  virtualization providers and test frameworks.
+
+  Molecule has become the defacto Ansible testing framework, by building a
+  community around Molecule through public speaking, meetups, Slack, and mailing
+  lists. Helped to Shepherd Molecule's adoption by Redhat into the Ansible
+  ecosystem [1].
+
+  [1] https://groups.google.com/forum/#!msg/ansible-devel/U8_Lxg7wAHA/u6KsV-DbGAAJ
+* Gilt - http://gilt.readthedocs.io/en/latest/
+* Photon - http://python-photon.readthedocs.io/en/latest/
+* git-url-parse - https://git-url-parse.readthedocs.io/en/latest/
+* Ansible ETCD - https://github.com/retr0h/ansible-etcd
+* Ansible logrotate - https://github.com/retr0h/ansible-logrotate
+
