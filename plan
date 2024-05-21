@@ -23,6 +23,8 @@ Skills
 * Open Source               * OpenStack
 * System Architecture       * Kubernetes
 * Automation                * Docker
+* Microservices             * Helm
+* Cloud Native
 
 Experience
 ----------
@@ -30,15 +32,27 @@ Experience
 - Ham Radio Operator, Greater Los Angeles Area, CA
   February 2018 - Present
 
+- Technical leader (Cisco DNAC), Cisco Systems,
+  Greater Los Angeles Area, CA
+  April 2019 - Present
+
+  Part of the Engineering Experience team for Cisco DNAC. Supporting 800
+  developers worldwide.
+
 - Technical leader (Cisco Container Platform - Kubernetes), Cisco Systems,
   Greater Los Angeles Area, CA
-  January 2014 - June 2018
+  June 2018 - April 2019
 
   On the leadership team responsible for Cisco Container Platform.
 
-  > Cisco Container Platform. A fully curated, lightweight container management
+  > Cisco Container Platform.  A fully curated, lightweight container management
     platform for production-grade environments, powered by Kubernetes, and
     delivered with Cisco enterprise-class support.
+
+  Led a team of engineers responsible for solving various day-2 issues  of our
+  Kubernetes product.  Our team was also responsible for ensuring the product
+  met Cisco's Secure Development Lifecycle (CSDL).  CSDL consisted of many
+  sub-projects, which enabled cross team collaboration and tasks.
 
 - Technical leader (Cisco Metapod - OpenStack), Cisco Systems,
   Greater Los Angeles Area, CA

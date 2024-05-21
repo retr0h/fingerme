@@ -1,7 +1,6 @@
-# containumé
+# fingermé
 
-A container consisting of a golang FINGERD(8) server serving
-my résumé as a .plan file.
+A golang based FINGERD(8) server for serving my my résumé as a .plan file.
 
 ## Usage
 
@@ -16,7 +15,7 @@ Running the container locally:
 Query the server via a FINGER(1) client:
 
     $ pacaur -S netkit-bsd-finger
-    $ finger retr0h@localhost  
+    $ finger retr0h@localhost
     [localhost.localdomain]
     User: retr0h
     Plan: Testing testing 123
@@ -27,4 +26,4 @@ Query the server via a FINGER(1) client:
 
 ## License
 
-MIT
+The [MIT][] License.
