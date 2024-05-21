@@ -4,26 +4,29 @@ A golang based FINGERD(8) server for serving my my résumé as a .plan file.
 
 ## Usage
 
-Building the container:
-
-    $ make build
-
-Running the container locally:
-
-    $ make run
-
 Query the server via a FINGER(1) client:
 
-    $ pacaur -S netkit-bsd-finger
+    $ task serve
     $ finger retr0h@localhost
-    [localhost.localdomain]
-    User: retr0h
-    Plan: Testing testing 123
 
-## TODO
+Install dependencies
 
-* Reimplement the fingerd server to better learn golang.
+    $ task deps
+
+Test packages:
+
+    $ task unit
+
+Test all:
+
+    $ task test
+
+List targets:
+
+    $ task
 
 ## License
 
 The [MIT][] License.
+
+[MIT]: LICENSE
