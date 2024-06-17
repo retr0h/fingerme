@@ -18,7 +18,7 @@ tasks:
       - go install github.com/boumenot/gocover-cobertura@latest
       - go install mvdan.cc/gofumpt@latest
       - go install github.com/goreleaser/goreleaser@latest
-      - go install github.com/cosmtrek/air@latest
+      - go install github.com/air-verse/air@latest
 
   deps:check:
     desc: Check dependencies needed for development
