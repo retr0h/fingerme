@@ -3,7 +3,7 @@ module github.com/retr0h/fingerme
 go 1.22.2
 
 require (
-	github.com/caarlos0/go-version v0.1.1
+	github.com/caarlos0/go-version v0.2.0
 	github.com/lmittmann/tint v1.0.5
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
