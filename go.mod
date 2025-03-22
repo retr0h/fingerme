@@ -1,7 +1,6 @@
 module github.com/retr0h/fingerme
 
-go 1.22.2
-toolchain go1.23.7
+go 1.24
 
 require (
 	github.com/caarlos0/go-version v0.2.0
